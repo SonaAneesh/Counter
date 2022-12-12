@@ -29,7 +29,6 @@ main{
 }
 .value{
   font-size: var(--valfont);
-  color:rgb(2, 7, 79);
   margin-bottom: 2.5rem;
 }
 .btn{
